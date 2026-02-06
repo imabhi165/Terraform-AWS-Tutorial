@@ -159,7 +159,7 @@ After successful apply:
 - Login to AWS Console
 - Navigate to S3
 - Confirm bucket creation - ![aws-console](architecture/aws-s3-bucket.png)
-  ![Proof](architecture/s3-bucket.png)
+- ![Proof](architecture/S3-bucket.png)
 
 ---
 

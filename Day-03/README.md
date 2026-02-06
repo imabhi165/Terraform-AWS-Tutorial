@@ -1,26 +1,8 @@
-Ohhh nice 👌 adding architecture diagram makes it look 10x more professional on GitHub.
-
-Let’s update your `README.md` properly and include the Eraser.io architecture section in a clean way.
-
-You just need to export your Eraser diagram as PNG/JPG and place it inside your project folder like this:
-
-```
-Day-03/
-├── main.tf
-├── README.md
-└── architecture/
-      └── day03-architecture.png
-```
-
-Now here’s the updated README with architecture section included:
-
 ---
-
 # Terraform + AWS S3 Infrastructure (Day 03 Hands-on)
 
 This project demonstrates how to provision AWS infrastructure using **Terraform**.
 In this setup, I created an S3 bucket using Infrastructure as Code (IaC) and authenticated securely using an IAM user.
-
 ---
 
 ## Project Objective
@@ -31,6 +13,18 @@ In this setup, I created an S3 bucket using Infrastructure as Code (IaC) and aut
 - Provision an S3 bucket using Terraform
 - Verify infrastructure creation in AWS Console
 - Document architecture using Eraser.io
+
+---
+
+## Directory Structure
+
+```
+Day-03/
+├── main.tf
+├── README.md
+└── architecture/
+      └── day03-architecture.png
+```
 
 ---
 

@@ -1,8 +1,8 @@
----
 # Terraform + AWS S3 Infrastructure (Day 03 Hands-on)
 
 This project demonstrates how to provision AWS infrastructure using **Terraform**.
 In this setup, I created an S3 bucket using Infrastructure as Code (IaC) and authenticated securely using an IAM user.
+
 ---
 
 ## Project Objective

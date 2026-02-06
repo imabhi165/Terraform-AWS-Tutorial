@@ -164,7 +164,7 @@ After successful apply:
 
 - Login to AWS Console
 - Navigate to S3
-- Confirm bucket creation
+- Confirm bucket creation -![Proof](architecture/s3-bucket.png)
 
 ---
 
